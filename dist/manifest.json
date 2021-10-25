@@ -1,0 +1,53 @@
+{
+  "name": "Movie catalog Lite",
+  "short_name": "movie lite",
+  "description": "free catalogue movie for you",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#d84315",
+  "icons": [
+    {
+      "src": "/icons/icon-72x72.png",
+      "size": "72x72",
+      "type": "image/png",
+      "pupose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-128x128.png",
+      "size": "128x128",
+      "type": "image/png",
+      "pupose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-144x144.png",
+      "size": "144x144",
+      "type": "image/png",
+      "pupose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-152x152.png",
+      "size": "152x152",
+      "type": "image/png",
+      "pupose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "size": "192x192",
+      "type": "image/png",
+      "pupose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-384x384.png",
+      "size": "384x384",
+      "type": "image/png",
+      "pupose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "size": "512x512",
+      "type": "image/png",
+      "pupose": "any maskable"
+    }
+  ]
+}
