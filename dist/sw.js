@@ -3,7 +3,7 @@ var serviceWorkerOption = {
     "/bundle.js",
     "/favicon.png",
     "/manifest.json",
-    "/icons/icon-128x128.png",
+    "",
     "/icons/icon-144x144.png",
     "/icons/icon-152x152.png",
     "/icons/icon-192x192.png",
