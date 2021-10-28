@@ -13,7 +13,7 @@ const WebsocketInitiator = {
       title: `${movie.title} sedang tayang`,
       options: {
         body: movie.overview,
-        image: CONFIG.BASE_IMAGE_URL + movie.poster_path,
+        image: `${CONFIG.BASE_IMAGE_URL + movie.poster_path}`,
       },
     })
   },
